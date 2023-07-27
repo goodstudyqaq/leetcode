@@ -22,9 +22,7 @@ struct ListNode {
     ListNode(vector<long long> x);
     vector<long long> to_vector();
 };
-/*
-    调试输出
-*/
+
 template <typename A, typename B>
 string to_string(pair<A, B> p);
 
@@ -116,11 +114,11 @@ void debug_out(Head H, Tail... T) {
 #define debug(...) cerr << "[" << #__VA_ARGS__ << "]:", debug_out(__VA_ARGS__)
 
 TreeNode::TreeNode(vector<string> v) {
-    // bfs 序构建整颗树
+    // Build a tree from bfs order
     assert(v.size() > 0);
     int son_idx = 1;
     queue<TreeNode *> Q;
-    // 第一个不可能是 null
+    // The first element can't be null
     assert(v[0] != "null");
     convert_params(v[0], this->val);
     this->left = this->right = NULL;
@@ -167,7 +165,7 @@ vector<string> TreeNode::bfs_order() {
             res.push_back("null");
         }
     }
-    // 去掉末尾 0
+    // Remove the last 0
     int idx = res.size() - 1;
     while (idx >= 0 && res[idx] == "null") idx--;
     res.resize(idx + 1);
@@ -197,16 +195,16 @@ vector<long long> ListNode::to_vector() {
     return ans;
 }
 
-// compare_result 实现
+// compare_result
 template <typename T>
 bool compare_result(string sample_idx, T &my_ans, T &result) {
     bool equal = (my_ans == result);
     debug(my_ans);
     debug(result);
     if (!equal) {
-        cerr << "[fail!] 样例 " << sample_idx << " 错误! 请勿提交!" << endl;
+        cerr << "[fail!] Case " << sample_idx << " failed! Please don't submit!" << endl;
     } else {
-        cerr << "样例 " << sample_idx << " 通过测试!" << endl;
+        cerr << "Case " << sample_idx << " passed!" << endl;
     }
     return equal;
 }
@@ -221,6 +219,11 @@ bool compare_result(string sample_idx, ListNode *my_ans, ListNode *result) {
     vector<long long> a = my_ans->to_vector();
     vector<long long> b = result->to_vector();
     return compare_result(sample_idx, a, b);
+}
+
+void convert_params(string s, char &res) {
+    // s = "x"
+    res = s[1];
 }
 
 void convert_params(string s, int &res) {
@@ -261,9 +264,8 @@ void convert_params(string str, string &res) {
 
 template <class T>
 void convert_params(string str, vector<T> &v) {
-    // 去掉 s 的开头和结尾
+    // Remove the first and last character
     string s2 = str.substr(1, str.size() - 2);
-    // debug(s2);
     if (s2.size() == 0) {
         return;
     }
@@ -296,7 +298,7 @@ void convert_params(string str, ListNode *&res) {
     res = new ListNode(v);
 }
 
-vector<string> split(string &s, string delimiter) {
+vector<string> __split(string &s, string delimiter) {
     size_t pos_start = 0, pos_end, delim_len = delimiter.length();
     string token;
     vector<string> res;
@@ -314,13 +316,13 @@ vector<string> split(string &s, string delimiter) {
 void convert_params(string str, TreeNode *&res) {
     vector<string> v;
     str = str.substr(1, str.size() - 2);
-    v = split(str, ",");
+    v = __split(str, ",");
     res = new TreeNode(v);
 }
 
 vector<string> split_str_to_func(string s) {
     s = s.substr(1, s.size() - 2);
-    vector<string> res = split(s, ",");
+    vector<string> res = __split(s, ",");
     for (int i = 0; i < res.size(); i++) {
         res[i] = res[i].substr(1, res[i].size() - 2);
     }
@@ -329,7 +331,7 @@ vector<string> split_str_to_func(string s) {
 
 vector<string> split_str_to_params(string s) {
     s = s.substr(1, s.size() - 2);
-    // 不能简单的根据逗号 split
+    // It cannot be split simply by commas
 
     vector<string> ans;
     int sz = s.size();
@@ -343,7 +345,7 @@ vector<string> split_str_to_params(string s) {
             } else if (s[go] == ']') {
                 now_score--;
             } else if (s[go] == ',' && now_score == 0) {
-                // todo: 不一定，可能字符串里面含有逗号，需要验证
+                // todo: Not sure, there may be commas in the string, need to verify
                 break;
             }
             go++;
