@@ -4,6 +4,6 @@ As for the complexity, it is a bit tricky to calculate. Let's consider the worst
 
 Mantel's theorem: If a graph G on n vertices contains no triangles, then it contains at most n^2/4 edges.
 
-Proof link: Mantel's Theorem Proof
+Proof link: [Mantel's Theorem Proof](https://homes.cs.washington.edu/~anuprao/pubs/CSE421Wi2020/CyclesandTrees.pdf)
 
 Thus, the maximum number of edges will be n^2/4, and the complexity of the algorithm will be O(n^3/4).
