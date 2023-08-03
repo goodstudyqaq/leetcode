@@ -152,17 +152,19 @@ def _get_all_data_from_list(s: str) -> List[Any]:
     now = 0
     now_score = 0
     res = []
+    in_quote = False
     while now < sz:
         go = now
         while go < sz:
+            in_quote = in_quote ^ (s[go] == '"')
             if s[go] == "[":
                 now_score += 1
             elif s[go] == "]":
                 now_score -= 1
-            elif s[go] == "," and now_score == 0:
+            elif s[go] == "," and now_score == 0 and not in_quote:
                 break
             go += 1
-        res.append(s[now:go])
+        res.append(s[now:go].strip())
         now = go + 1
     return res
 
@@ -229,7 +231,7 @@ def check_result(result: Any, expected: Any, type_hint: str) -> bool:
 
 def compare_result(index: str, result: Any, expected: Any, type_hint: str) -> bool:
     print(f"[my_ans]: {result}")
-    print(f"[expected_ans]: {expected}")
+    print(f"[result]: {expected}")
     res = check_result(result, expected, type_hint)
     if res:
         print(f"Case {index} passed!")

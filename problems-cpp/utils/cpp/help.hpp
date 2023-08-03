@@ -297,20 +297,27 @@ void convert_params(string str, vector<T> &v) {
     int sz = s2.size();
     int now = 0;
     int now_score = 0;
+    bool in_quote = 0;
     while (now < sz) {
         int go = now;
         while (go < sz) {
+            in_quote ^= (s2[go] == '"');
             if (s2[go] == '[') {
                 now_score++;
             } else if (s2[go] == ']') {
                 now_score--;
-            } else if (s2[go] == ',' && now_score == 0) {
+            } else if (s2[go] == ',' && now_score == 0 && !in_quote) {
                 break;
             }
             go++;
         }
         T res;
         string new_s = s2.substr(now, go - now);
+        // Need trim. In most of time, leetcode's input list is like ['a','b',c']. It will not have space before ','.
+        // However in https://leetcode.com/problems/remove-comments/description/. Its input is like ['a', 'b', 'c']
+        new_s.erase(0, new_s.find_first_not_of(" "));
+        new_s.erase(new_s.find_last_not_of(" ") + 1);
+
         convert_params(new_s, res);
         v.push_back(res);
         now = go + 1;
