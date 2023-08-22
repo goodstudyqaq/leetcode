@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 22/08/2023 11:22:26 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/median-of-two-sorted-arrays/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/median-of-two-sorted-arrays/solution.py) | ❌ |
 | [permutations](https://leetcode.com/problems/permutations/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutations/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/permutations/solution.py) | ❌ |
 | [count-pairs-of-nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-pairs-of-nodes/solution.h) | ❌ | ❌ |
 | [card-flipping-game](https://leetcode.com/problems/card-flipping-game/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/card-flipping-game/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/card-flipping-game/solution.py) | ❌ |

@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "median-of-two-sorted-arrays": {
+            "name": "median-of-two-sorted-arrays",
+            "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+            "date": "22/08/2023 11:22:26",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/median-of-two-sorted-arrays/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/median-of-two-sorted-arrays/solution.py",
+            "tutorial": ""
+        },
         "permutations": {
             "name": "permutations",
             "url": "https://leetcode.com/problems/permutations/",
