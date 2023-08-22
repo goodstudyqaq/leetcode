@@ -4,6 +4,7 @@ This script will read problem directory and flush the data to data.json and then
 import json
 import os
 from datetime import datetime
+import pytz
 # read data.json
 current_dir = os.path.dirname(os.path.realpath(__file__))
 with open(f'{current_dir}/data.json', "r") as f:
@@ -21,14 +22,18 @@ for problem in os.listdir(f'{current_dir}/problems-python'):
     problem_python.add(problem)
     problems.add(problem)
 
+target_timezone = pytz.timezone('Asia/Shanghai')
+
 for problem in problems:
     cpp_url = f"https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/{problem}/solution.h" if problem in problem_cpp else ""
     python_url = f"https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/{problem}/solution.py" if problem in problem_python else ""
     tutorial_url = f"https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/{problem}/README.md" if os.path.exists(f'{current_dir}/problems-cpp/{problem}/README.md') else ""
+    # utc+8
+    now = datetime.now(tz=target_timezone).strftime("%d/%m/%Y %H:%M:%S")
     problem_data = {
         "name": problem,
         "url": f"https://leetcode.com/problems/{problem}/",
-        "date": datetime.now().strftime("%d/%m/%Y %H:%M:%S") if problem not in datas["problem"] else datas["problem"][problem]["date"],
+        "date": now if problem not in datas["problem"] else datas["problem"][problem]["date"],
         "cpp": cpp_url,
         "python": python_url,
         "tutorial": tutorial_url,
