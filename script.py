@@ -15,10 +15,14 @@ problem_cpp = set()
 problem_python = set()
 problems = set()
 for problem in os.listdir(f'{current_dir}/problems-cpp'):
+    if problem == "utils":
+        continue
     problem_cpp.add(problem)
     problems.add(problem)
 
 for problem in os.listdir(f'{current_dir}/problems-python'):
+    if problem == "utils":
+        continue
     problem_python.add(problem)
     problems.add(problem)
 
