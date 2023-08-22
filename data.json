@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "regular-expression-matching": {
+            "name": "regular-expression-matching",
+            "url": "https://leetcode.com/problems/regular-expression-matching/",
+            "date": "22/08/2023 16:29:04",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/regular-expression-matching/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/regular-expression-matching/solution.py",
+            "tutorial": ""
+        },
         "median-of-two-sorted-arrays": {
             "name": "median-of-two-sorted-arrays",
             "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
