@@ -1,5 +1,109 @@
 {
     "contest": {},
     "problem": {
+        "permutations": {
+            "name": "permutations",
+            "url": "https://leetcode.com/problems/permutations/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutations/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/permutations/solution.py",
+            "tutorial": ""
+        },
+        "count-pairs-of-nodes": {
+            "name": "count-pairs-of-nodes",
+            "url": "https://leetcode.com/problems/count-pairs-of-nodes/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-pairs-of-nodes/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "card-flipping-game": {
+            "name": "card-flipping-game",
+            "url": "https://leetcode.com/problems/card-flipping-game/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/card-flipping-game/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/card-flipping-game/solution.py",
+            "tutorial": ""
+        },
+        "count-zero-request-servers": {
+            "name": "count-zero-request-servers",
+            "url": "https://leetcode.com/problems/count-zero-request-servers/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-zero-request-servers/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "car-fleet-ii": {
+            "name": "car-fleet-ii",
+            "url": "https://leetcode.com/problems/car-fleet-ii/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/car-fleet-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "minimum-degree-of-a-connected-trio-in-a-graph": {
+            "name": "minimum-degree-of-a-connected-trio-in-a-graph",
+            "url": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-degree-of-a-connected-trio-in-a-graph/solution.h",
+            "python": "",
+            "tutorial": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-degree-of-a-connected-trio-in-a-graph/README.md"
+        },
+        "word-break": {
+            "name": "word-break",
+            "url": "https://leetcode.com/problems/word-break/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/word-break/solution.py",
+            "tutorial": ""
+        },
+        "find-the-longest-semi-repetitive-substring": {
+            "name": "find-the-longest-semi-repetitive-substring",
+            "url": "https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-the-longest-semi-repetitive-substring/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "remove-comments": {
+            "name": "remove-comments",
+            "url": "https://leetcode.com/problems/remove-comments/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/remove-comments/solution.py",
+            "tutorial": ""
+        },
+        "unique-paths-iii": {
+            "name": "unique-paths-iii",
+            "url": "https://leetcode.com/problems/unique-paths-iii/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/unique-paths-iii/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/unique-paths-iii/solution.py",
+            "tutorial": ""
+        },
+        "maximize-distance-to-closest-person": {
+            "name": "maximize-distance-to-closest-person",
+            "url": "https://leetcode.com/problems/maximize-distance-to-closest-person/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximize-distance-to-closest-person/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "car-fleet": {
+            "name": "car-fleet",
+            "url": "https://leetcode.com/problems/car-fleet/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/car-fleet/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "last-moment-before-all-ants-fall-out-of-a-plank": {
+            "name": "last-moment-before-all-ants-fall-out-of-a-plank",
+            "url": "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/",
+            "date": "22/08/2023 10:14:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/last-moment-before-all-ants-fall-out-of-a-plank/solution.h",
+            "python": "",
+            "tutorial": ""
+        }
     }
 }
