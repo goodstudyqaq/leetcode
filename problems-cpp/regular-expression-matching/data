@@ -1,0 +1,6 @@
+"ab"
+"c.*"
+true
+"aab"
+"c*a*b"
+true
