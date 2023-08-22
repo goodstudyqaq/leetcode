@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "merge-k-sorted-lists": {
+            "name": "merge-k-sorted-lists",
+            "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+            "date": "22/08/2023 17:37:38",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/merge-k-sorted-lists/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/merge-k-sorted-lists/solution.py",
+            "tutorial": ""
+        },
         "regular-expression-matching": {
             "name": "regular-expression-matching",
             "url": "https://leetcode.com/problems/regular-expression-matching/",
