@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "first-missing-positive": {
+            "name": "first-missing-positive",
+            "url": "https://leetcode.com/problems/first-missing-positive/",
+            "date": "23/08/2023 13:16:20",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/first-missing-positive/solution.h",
+            "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/first-missing-positive/solution.py",
+            "tutorial": ""
+        },
         "sudoku-solver": {
             "name": "sudoku-solver",
             "url": "https://leetcode.com/problems/sudoku-solver/",
