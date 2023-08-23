@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "trapping-rain-water": {
+            "name": "trapping-rain-water",
+            "url": "https://leetcode.com/problems/trapping-rain-water/",
+            "date": "23/08/2023 13:47:49",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/trapping-rain-water/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "first-missing-positive": {
             "name": "first-missing-positive",
             "url": "https://leetcode.com/problems/first-missing-positive/",
