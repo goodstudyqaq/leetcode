@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | 23/08/2023 12:40:11 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sudoku-solver/solution.h) | ❌ | ❌ |
 | [substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 22/08/2023 21:43:20 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/substring-with-concatenation-of-all-words/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/substring-with-concatenation-of-all-words/solution.py) | ❌ |
 | [reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 22/08/2023 18:53:43 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-nodes-in-k-group/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/reverse-nodes-in-k-group/solution.py) | ❌ |
 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 22/08/2023 17:37:38 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/merge-k-sorted-lists/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/merge-k-sorted-lists/solution.py) | ❌ |

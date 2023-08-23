@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "sudoku-solver": {
+            "name": "sudoku-solver",
+            "url": "https://leetcode.com/problems/sudoku-solver/",
+            "date": "23/08/2023 12:40:11",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sudoku-solver/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "substring-with-concatenation-of-all-words": {
             "name": "substring-with-concatenation-of-all-words",
             "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
