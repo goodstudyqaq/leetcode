@@ -44,6 +44,10 @@ string to_string(bool b) {
     return (b ? "true" : "false");
 }
 
+string to_string(char c) {
+    return string(1, c);
+}
+
 string to_string(vector<bool> v) {
     bool first = true;
     string res = "{";
