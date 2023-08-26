@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "wildcard-matching": {
+            "name": "wildcard-matching",
+            "url": "https://leetcode.com/problems/wildcard-matching/",
+            "date": "26/08/2023 09:53:17",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/wildcard-matching/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "n-queens-ii": {
             "name": "n-queens-ii",
             "url": "https://leetcode.com/problems/n-queens-ii/",
