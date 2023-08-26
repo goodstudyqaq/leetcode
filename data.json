@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "permutation-sequence": {
+            "name": "permutation-sequence",
+            "url": "https://leetcode.com/problems/permutation-sequence/",
+            "date": "26/08/2023 16:41:32",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/solution.h",
+            "python": "",
+            "tutorial": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/README.md"
+        },
         "wildcard-matching": {
             "name": "wildcard-matching",
             "url": "https://leetcode.com/problems/wildcard-matching/",

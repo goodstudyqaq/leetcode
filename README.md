@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [permutation-sequence](https://leetcode.com/problems/permutation-sequence/) | 26/08/2023 16:41:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/solution.h) | ❌ | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/README.md) |
 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/) | 26/08/2023 09:53:17 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/wildcard-matching/solution.h) | ❌ | ❌ |
 | [n-queens-ii](https://leetcode.com/problems/n-queens-ii/) | 26/08/2023 09:26:30 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/n-queens-ii/solution.h) | ❌ | ❌ |
 | [n-queens](https://leetcode.com/problems/n-queens/) | 26/08/2023 09:23:36 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/n-queens/solution.h) | ❌ | ❌ |
