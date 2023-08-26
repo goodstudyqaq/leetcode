@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [n-queens](https://leetcode.com/problems/n-queens/) | 26/08/2023 09:23:36 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/n-queens/solution.h) | ❌ | ❌ |
 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | 23/08/2023 13:47:49 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/trapping-rain-water/solution.h) | ❌ | ❌ |
 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/) | 23/08/2023 13:16:20 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/first-missing-positive/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/first-missing-positive/solution.py) | ❌ |
 | [sudoku-solver](https://leetcode.com/problems/sudoku-solver/) | 23/08/2023 12:40:11 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sudoku-solver/solution.h) | ❌ | ❌ |

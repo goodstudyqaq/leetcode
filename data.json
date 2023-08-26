@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "n-queens": {
+            "name": "n-queens",
+            "url": "https://leetcode.com/problems/n-queens/",
+            "date": "26/08/2023 09:23:36",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/n-queens/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "trapping-rain-water": {
             "name": "trapping-rain-water",
             "url": "https://leetcode.com/problems/trapping-rain-water/",
