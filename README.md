@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [text-justification](https://leetcode.com/problems/text-justification/) | 26/08/2023 20:33:30 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/text-justification/solution.h) | ❌ | ❌ |
 | [valid-number](https://leetcode.com/problems/valid-number/) | 26/08/2023 17:11:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/valid-number/solution.h) | ❌ | ❌ |
 | [permutation-sequence](https://leetcode.com/problems/permutation-sequence/) | 26/08/2023 16:41:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/solution.h) | ❌ | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/permutation-sequence/README.md) |
 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/) | 26/08/2023 09:53:17 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/wildcard-matching/solution.h) | ❌ | ❌ |

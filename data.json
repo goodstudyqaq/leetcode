@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "text-justification": {
+            "name": "text-justification",
+            "url": "https://leetcode.com/problems/text-justification/",
+            "date": "26/08/2023 20:33:30",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/text-justification/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "valid-number": {
             "name": "valid-number",
             "url": "https://leetcode.com/problems/valid-number/",
