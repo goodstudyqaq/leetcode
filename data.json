@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "n-queens-ii": {
+            "name": "n-queens-ii",
+            "url": "https://leetcode.com/problems/n-queens-ii/",
+            "date": "26/08/2023 09:26:30",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/n-queens-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "n-queens": {
             "name": "n-queens",
             "url": "https://leetcode.com/problems/n-queens/",
