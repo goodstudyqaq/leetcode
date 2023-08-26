@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "minimum-window-substring": {
+            "name": "minimum-window-substring",
+            "url": "https://leetcode.com/problems/minimum-window-substring/",
+            "date": "26/08/2023 21:35:02",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-window-substring/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "edit-distance": {
             "name": "edit-distance",
             "url": "https://leetcode.com/problems/edit-distance/",

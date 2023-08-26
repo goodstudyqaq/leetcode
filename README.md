@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) | 26/08/2023 21:35:02 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-window-substring/solution.h) | ❌ | ❌ |
 | [edit-distance](https://leetcode.com/problems/edit-distance/) | 26/08/2023 20:52:37 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/edit-distance/solution.h) | ❌ | ❌ |
 | [text-justification](https://leetcode.com/problems/text-justification/) | 26/08/2023 20:33:30 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/text-justification/solution.h) | ❌ | ❌ |
 | [valid-number](https://leetcode.com/problems/valid-number/) | 26/08/2023 17:11:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/valid-number/solution.h) | ❌ | ❌ |
