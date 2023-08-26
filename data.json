@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "valid-number": {
+            "name": "valid-number",
+            "url": "https://leetcode.com/problems/valid-number/",
+            "date": "26/08/2023 17:11:58",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/valid-number/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "permutation-sequence": {
             "name": "permutation-sequence",
             "url": "https://leetcode.com/problems/permutation-sequence/",
