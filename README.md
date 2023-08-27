@@ -2,6 +2,7 @@
 ## Contest
 | # | Date | Rank | Solved | 
 |---|---|---|---|
+| [weekly-contest-360](https://github.com/goodstudyqaq/leetcode/blob/main/contests/weekly-contest-360) | 27/08/2023 10:30:00 | 123 | 4/4 |
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
