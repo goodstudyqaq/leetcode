@@ -1,5 +1,12 @@
 {
-    "contest": {},
+    "contest": {
+        "weekly-contest-360": {
+            "url": "https://github.com/goodstudyqaq/leetcode/blob/main/contests/weekly-contest-360",
+            "date": "27/08/2023 10:30:00",
+            "rank": 123,
+            "solved": "4/4"
+        }
+    },
     "problem": {
         "minimum-window-substring": {
             "name": "minimum-window-substring",
