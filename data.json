@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "number-of-digit-one": {
+            "name": "number-of-digit-one",
+            "url": "https://leetcode.com/problems/number-of-digit-one/",
+            "date": "28/08/2023 22:40:35",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/number-of-digit-one/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "contains-duplicate-iii": {
             "name": "contains-duplicate-iii",
             "url": "https://leetcode.com/problems/contains-duplicate-iii/",
