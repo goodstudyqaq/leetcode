@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "contains-duplicate-iii": {
+            "name": "contains-duplicate-iii",
+            "url": "https://leetcode.com/problems/contains-duplicate-iii/",
+            "date": "28/08/2023 22:16:28",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/contains-duplicate-iii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "the-skyline-problem": {
             "name": "the-skyline-problem",
             "url": "https://leetcode.com/problems/the-skyline-problem/",

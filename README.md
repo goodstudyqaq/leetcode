@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/) | 28/08/2023 22:16:28 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/contains-duplicate-iii/solution.h) | ❌ | ❌ |
 | [the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/) | 28/08/2023 22:09:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/the-skyline-problem/solution.h) | ❌ | ❌ |
 | [word-search-ii](https://leetcode.com/problems/word-search-ii/) | 28/08/2023 21:27:05 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/word-search-ii/solution.h) | ❌ | ❌ |
 | [best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 28/08/2023 20:30:25 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/best-time-to-buy-and-sell-stock-iv/solution.h) | ❌ | ❌ |
