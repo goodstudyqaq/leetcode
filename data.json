@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "candy": {
+            "name": "candy",
+            "url": "https://leetcode.com/problems/candy/",
+            "date": "28/08/2023 16:11:51",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/candy/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "palindrome-partitioning-ii": {
             "name": "palindrome-partitioning-ii",
             "url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
