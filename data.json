@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "dungeon-game": {
+            "name": "dungeon-game",
+            "url": "https://leetcode.com/problems/dungeon-game/",
+            "date": "28/08/2023 18:43:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/dungeon-game/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "maximum-gap": {
             "name": "maximum-gap",
             "url": "https://leetcode.com/problems/maximum-gap/",
