@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "best-time-to-buy-and-sell-stock-iv": {
+            "name": "best-time-to-buy-and-sell-stock-iv",
+            "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+            "date": "28/08/2023 20:30:25",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/best-time-to-buy-and-sell-stock-iv/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "dungeon-game": {
             "name": "dungeon-game",
             "url": "https://leetcode.com/problems/dungeon-game/",
