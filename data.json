@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "best-time-to-buy-and-sell-stock-iii": {
+            "name": "best-time-to-buy-and-sell-stock-iii",
+            "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+            "date": "28/08/2023 15:23:48",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/best-time-to-buy-and-sell-stock-iii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "scramble-string": {
             "name": "scramble-string",
             "url": "https://leetcode.com/problems/scramble-string/",
