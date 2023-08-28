@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "max-points-on-a-line": {
+            "name": "max-points-on-a-line",
+            "url": "https://leetcode.com/problems/max-points-on-a-line/",
+            "date": "28/08/2023 16:27:56",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-points-on-a-line/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "word-break-ii": {
             "name": "word-break-ii",
             "url": "https://leetcode.com/problems/word-break-ii/",
