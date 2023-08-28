@@ -6,6 +6,8 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) | 28/08/2023 23:23:03 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-window-maximum/solution.h) | ❌ | ❌ |
+| [find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/) | 28/08/2023 23:23:03 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-median-from-data-stream/solution.h) | ❌ | ❌ |
 | [number-of-digit-one](https://leetcode.com/problems/number-of-digit-one/) | 28/08/2023 22:40:35 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/number-of-digit-one/solution.h) | ❌ | ❌ |
 | [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/) | 28/08/2023 22:16:28 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/contains-duplicate-iii/solution.h) | ❌ | ❌ |
 | [the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/) | 28/08/2023 22:09:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/the-skyline-problem/solution.h) | ❌ | ❌ |

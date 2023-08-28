@@ -8,6 +8,22 @@
         }
     },
     "problem": {
+        "sliding-window-maximum": {
+            "name": "sliding-window-maximum",
+            "url": "https://leetcode.com/problems/sliding-window-maximum/",
+            "date": "28/08/2023 23:23:03",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-window-maximum/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "find-median-from-data-stream": {
+            "name": "find-median-from-data-stream",
+            "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+            "date": "28/08/2023 23:23:03",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-median-from-data-stream/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "number-of-digit-one": {
             "name": "number-of-digit-one",
             "url": "https://leetcode.com/problems/number-of-digit-one/",
