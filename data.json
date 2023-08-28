@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "maximal-rectangle": {
+            "name": "maximal-rectangle",
+            "url": "https://leetcode.com/problems/maximal-rectangle/",
+            "date": "28/08/2023 10:43:12",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximal-rectangle/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "largest-rectangle-in-histogram": {
             "name": "largest-rectangle-in-histogram",
             "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",

@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [maximal-rectangle](https://leetcode.com/problems/maximal-rectangle/) | 28/08/2023 10:43:12 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximal-rectangle/solution.h) | ❌ | ❌ |
 | [largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 28/08/2023 10:28:28 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/largest-rectangle-in-histogram/solution.h) | ❌ | ❌ |
 | [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) | 26/08/2023 21:35:02 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-window-substring/solution.h) | ❌ | ❌ |
 | [edit-distance](https://leetcode.com/problems/edit-distance/) | 26/08/2023 20:52:37 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/edit-distance/solution.h) | ❌ | ❌ |
