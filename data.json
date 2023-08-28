@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "the-skyline-problem": {
+            "name": "the-skyline-problem",
+            "url": "https://leetcode.com/problems/the-skyline-problem/",
+            "date": "28/08/2023 22:09:21",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/the-skyline-problem/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "word-search-ii": {
             "name": "word-search-ii",
             "url": "https://leetcode.com/problems/word-search-ii/",
