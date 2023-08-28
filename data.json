@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "maximum-gap": {
+            "name": "maximum-gap",
+            "url": "https://leetcode.com/problems/maximum-gap/",
+            "date": "28/08/2023 18:07:50",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-gap/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "find-minimum-in-rotated-sorted-array-ii": {
             "name": "find-minimum-in-rotated-sorted-array-ii",
             "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
