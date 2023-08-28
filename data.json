@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "word-search-ii": {
+            "name": "word-search-ii",
+            "url": "https://leetcode.com/problems/word-search-ii/",
+            "date": "28/08/2023 21:27:05",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/word-search-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "best-time-to-buy-and-sell-stock-iv": {
             "name": "best-time-to-buy-and-sell-stock-iv",
             "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
