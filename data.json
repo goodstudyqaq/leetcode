@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "largest-rectangle-in-histogram": {
+            "name": "largest-rectangle-in-histogram",
+            "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+            "date": "28/08/2023 10:28:28",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/largest-rectangle-in-histogram/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "minimum-window-substring": {
             "name": "minimum-window-substring",
             "url": "https://leetcode.com/problems/minimum-window-substring/",
