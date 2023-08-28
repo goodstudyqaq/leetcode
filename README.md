@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [word-ladder](https://leetcode.com/problems/word-ladder/) | 28/08/2023 15:44:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/word-ladder/solution.h) | ❌ | ❌ |
 | [word-ladder-ii](https://leetcode.com/problems/word-ladder-ii/) | 28/08/2023 15:42:24 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/word-ladder-ii/solution.h) | ❌ | ❌ |
 | [best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 28/08/2023 15:23:48 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/best-time-to-buy-and-sell-stock-iii/solution.h) | ❌ | ❌ |
 | [scramble-string](https://leetcode.com/problems/scramble-string/) | 28/08/2023 12:06:41 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/scramble-string/solution.h) | ❌ | ❌ |

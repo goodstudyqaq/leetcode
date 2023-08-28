@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "word-ladder": {
+            "name": "word-ladder",
+            "url": "https://leetcode.com/problems/word-ladder/",
+            "date": "28/08/2023 15:44:50",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/word-ladder/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "word-ladder-ii": {
             "name": "word-ladder-ii",
             "url": "https://leetcode.com/problems/word-ladder-ii/",
