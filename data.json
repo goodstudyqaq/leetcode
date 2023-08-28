@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "scramble-string": {
+            "name": "scramble-string",
+            "url": "https://leetcode.com/problems/scramble-string/",
+            "date": "28/08/2023 12:06:41",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/scramble-string/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "maximal-rectangle": {
             "name": "maximal-rectangle",
             "url": "https://leetcode.com/problems/maximal-rectangle/",
