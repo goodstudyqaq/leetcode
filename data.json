@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "palindrome-partitioning-ii": {
+            "name": "palindrome-partitioning-ii",
+            "url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+            "date": "28/08/2023 16:03:39",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/palindrome-partitioning-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "word-ladder": {
             "name": "word-ladder",
             "url": "https://leetcode.com/problems/word-ladder/",
