@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [create-maximum-number](https://leetcode.com/problems/create-maximum-number/) | 29/08/2023 17:15:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/create-maximum-number/solution.h) | ❌ | ❌ |
 | [burst-balloons](https://leetcode.com/problems/burst-balloons/) | 29/08/2023 16:23:29 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/burst-balloons/solution.h) | ❌ | ❌ |
 | [remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 29/08/2023 15:43:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-invalid-parentheses/solution.h) | ❌ | ❌ |
 | [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 29/08/2023 15:18:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/serialize-and-deserialize-binary-tree/solution.h) | ❌ | ❌ |

@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "create-maximum-number": {
+            "name": "create-maximum-number",
+            "url": "https://leetcode.com/problems/create-maximum-number/",
+            "date": "29/08/2023 17:15:58",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/create-maximum-number/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "burst-balloons": {
             "name": "burst-balloons",
             "url": "https://leetcode.com/problems/burst-balloons/",
