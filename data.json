@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "count-of-range-sum": {
+            "name": "count-of-range-sum",
+            "url": "https://leetcode.com/problems/count-of-range-sum/",
+            "date": "29/08/2023 18:26:05",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-of-range-sum/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "create-maximum-number": {
             "name": "create-maximum-number",
             "url": "https://leetcode.com/problems/create-maximum-number/",
