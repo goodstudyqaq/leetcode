@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [self-crossing](https://leetcode.com/problems/self-crossing/) | 30/08/2023 00:00:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/self-crossing/solution.h) | ❌ | ❌ |
 | [reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 29/08/2023 23:20:52 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reconstruct-itinerary/solution.h) | ❌ | ❌ |
 | [patching-array](https://leetcode.com/problems/patching-array/) | 29/08/2023 22:24:10 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/patching-array/solution.h) | ❌ | ❌ |
 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 29/08/2023 22:08:20 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/longest-increasing-path-in-a-matrix/solution.h) | ❌ | ❌ |

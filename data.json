@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "self-crossing": {
+            "name": "self-crossing",
+            "url": "https://leetcode.com/problems/self-crossing/",
+            "date": "30/08/2023 00:00:06",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/self-crossing/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "reconstruct-itinerary": {
             "name": "reconstruct-itinerary",
             "url": "https://leetcode.com/problems/reconstruct-itinerary/",
