@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 29/08/2023 23:20:52 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reconstruct-itinerary/solution.h) | ❌ | ❌ |
 | [patching-array](https://leetcode.com/problems/patching-array/) | 29/08/2023 22:24:10 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/patching-array/solution.h) | ❌ | ❌ |
 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 29/08/2023 22:08:20 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/longest-increasing-path-in-a-matrix/solution.h) | ❌ | ❌ |
 | [count-of-range-sum](https://leetcode.com/problems/count-of-range-sum/) | 29/08/2023 18:26:05 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-of-range-sum/solution.h) | ❌ | ❌ |

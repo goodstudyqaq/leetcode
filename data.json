@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "reconstruct-itinerary": {
+            "name": "reconstruct-itinerary",
+            "url": "https://leetcode.com/problems/reconstruct-itinerary/",
+            "date": "29/08/2023 23:20:52",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reconstruct-itinerary/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "patching-array": {
             "name": "patching-array",
             "url": "https://leetcode.com/problems/patching-array/",
