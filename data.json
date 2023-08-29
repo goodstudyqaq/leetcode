@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "integer-to-english-words": {
+            "name": "integer-to-english-words",
+            "url": "https://leetcode.com/problems/integer-to-english-words/",
+            "date": "29/08/2023 14:58:34",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/integer-to-english-words/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "expression-add-operators": {
             "name": "expression-add-operators",
             "url": "https://leetcode.com/problems/expression-add-operators/",
