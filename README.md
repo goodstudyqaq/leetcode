@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 29/08/2023 15:43:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-invalid-parentheses/solution.h) | ❌ | ❌ |
 | [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 29/08/2023 15:18:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/serialize-and-deserialize-binary-tree/solution.h) | ❌ | ❌ |
 | [integer-to-english-words](https://leetcode.com/problems/integer-to-english-words/) | 29/08/2023 14:58:34 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/integer-to-english-words/solution.h) | ❌ | ❌ |
 | [expression-add-operators](https://leetcode.com/problems/expression-add-operators/) | 29/08/2023 12:01:44 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/expression-add-operators/solution.h) | ❌ | ❌ |

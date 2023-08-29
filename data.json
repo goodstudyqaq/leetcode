@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "remove-invalid-parentheses": {
+            "name": "remove-invalid-parentheses",
+            "url": "https://leetcode.com/problems/remove-invalid-parentheses/",
+            "date": "29/08/2023 15:43:58",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-invalid-parentheses/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "serialize-and-deserialize-binary-tree": {
             "name": "serialize-and-deserialize-binary-tree",
             "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
