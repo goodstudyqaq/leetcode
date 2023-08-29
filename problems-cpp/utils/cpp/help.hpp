@@ -363,6 +363,10 @@ vector<string> __split(string &s, string delimiter) {
 void convert_params(string str, TreeNode *&res) {
     vector<string> v;
     str = str.substr(1, str.size() - 2);
+    if (str == "") {
+        res = NULL;
+        return;
+    }
     v = __split(str, ",");
     res = new TreeNode(v);
 }
