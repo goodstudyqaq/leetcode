@@ -8,6 +8,22 @@
         }
     },
     "problem": {
+        "expression-add-operators": {
+            "name": "expression-add-operators",
+            "url": "https://leetcode.com/problems/expression-add-operators/",
+            "date": "29/08/2023 12:01:44",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/expression-add-operators/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "basic-calculator": {
+            "name": "basic-calculator",
+            "url": "https://leetcode.com/problems/basic-calculator/",
+            "date": "29/08/2023 12:01:44",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/basic-calculator/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "sliding-window-maximum": {
             "name": "sliding-window-maximum",
             "url": "https://leetcode.com/problems/sliding-window-maximum/",

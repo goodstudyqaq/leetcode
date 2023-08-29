@@ -6,6 +6,8 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [expression-add-operators](https://leetcode.com/problems/expression-add-operators/) | 29/08/2023 12:01:44 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/expression-add-operators/solution.h) | ❌ | ❌ |
+| [basic-calculator](https://leetcode.com/problems/basic-calculator/) | 29/08/2023 12:01:44 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/basic-calculator/solution.h) | ❌ | ❌ |
 | [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) | 28/08/2023 23:23:03 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-window-maximum/solution.h) | ❌ | ❌ |
 | [find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/) | 28/08/2023 23:23:03 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-median-from-data-stream/solution.h) | ❌ | ❌ |
 | [number-of-digit-one](https://leetcode.com/problems/number-of-digit-one/) | 28/08/2023 22:40:35 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/number-of-digit-one/solution.h) | ❌ | ❌ |
