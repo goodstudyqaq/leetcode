@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 29/08/2023 22:08:20 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/longest-increasing-path-in-a-matrix/solution.h) | ❌ | ❌ |
 | [count-of-range-sum](https://leetcode.com/problems/count-of-range-sum/) | 29/08/2023 18:26:05 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-of-range-sum/solution.h) | ❌ | ❌ |
 | [create-maximum-number](https://leetcode.com/problems/create-maximum-number/) | 29/08/2023 17:15:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/create-maximum-number/solution.h) | ❌ | ❌ |
 | [burst-balloons](https://leetcode.com/problems/burst-balloons/) | 29/08/2023 16:23:29 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/burst-balloons/solution.h) | ❌ | ❌ |
