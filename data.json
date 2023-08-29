@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "burst-balloons": {
+            "name": "burst-balloons",
+            "url": "https://leetcode.com/problems/burst-balloons/",
+            "date": "29/08/2023 16:23:29",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/burst-balloons/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "remove-invalid-parentheses": {
             "name": "remove-invalid-parentheses",
             "url": "https://leetcode.com/problems/remove-invalid-parentheses/",
