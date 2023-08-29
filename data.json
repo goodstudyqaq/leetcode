@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "patching-array": {
+            "name": "patching-array",
+            "url": "https://leetcode.com/problems/patching-array/",
+            "date": "29/08/2023 22:24:10",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/patching-array/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "longest-increasing-path-in-a-matrix": {
             "name": "longest-increasing-path-in-a-matrix",
             "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
