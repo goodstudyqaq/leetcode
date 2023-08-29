@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "serialize-and-deserialize-binary-tree": {
+            "name": "serialize-and-deserialize-binary-tree",
+            "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+            "date": "29/08/2023 15:18:06",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/serialize-and-deserialize-binary-tree/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "integer-to-english-words": {
             "name": "integer-to-english-words",
             "url": "https://leetcode.com/problems/integer-to-english-words/",
