@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [palindrome-pairs](https://leetcode.com/problems/palindrome-pairs/) | 30/08/2023 17:14:54 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/palindrome-pairs/solution.h) | ❌ | ❌ |
 | [self-crossing](https://leetcode.com/problems/self-crossing/) | 30/08/2023 00:00:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/self-crossing/solution.h) | ❌ | ❌ |
 | [reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 29/08/2023 23:20:52 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reconstruct-itinerary/solution.h) | ❌ | ❌ |
 | [patching-array](https://leetcode.com/problems/patching-array/) | 29/08/2023 22:24:10 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/patching-array/solution.h) | ❌ | ❌ |

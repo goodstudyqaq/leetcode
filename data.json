@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "palindrome-pairs": {
+            "name": "palindrome-pairs",
+            "url": "https://leetcode.com/problems/palindrome-pairs/",
+            "date": "30/08/2023 17:14:54",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/palindrome-pairs/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "self-crossing": {
             "name": "self-crossing",
             "url": "https://leetcode.com/problems/self-crossing/",
