@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "max-sum-of-rectangle-no-larger-than-k": {
+            "name": "max-sum-of-rectangle-no-larger-than-k",
+            "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+            "date": "30/08/2023 17:53:58",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-sum-of-rectangle-no-larger-than-k/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "data-stream-as-disjoint-intervals": {
             "name": "data-stream-as-disjoint-intervals",
             "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
