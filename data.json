@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "insert-delete-getrandom-o1-duplicates-allowed": {
+            "name": "insert-delete-getrandom-o1-duplicates-allowed",
+            "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+            "date": "30/08/2023 18:20:15",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/insert-delete-getrandom-o1-duplicates-allowed/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "max-sum-of-rectangle-no-larger-than-k": {
             "name": "max-sum-of-rectangle-no-larger-than-k",
             "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
