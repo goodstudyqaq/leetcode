@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "perfect-rectangle": {
+            "name": "perfect-rectangle",
+            "url": "https://leetcode.com/problems/perfect-rectangle/",
+            "date": "30/08/2023 19:10:03",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/perfect-rectangle/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "insert-delete-getrandom-o1-duplicates-allowed": {
             "name": "insert-delete-getrandom-o1-duplicates-allowed",
             "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
