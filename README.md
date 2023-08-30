@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [frog-jump](https://leetcode.com/problems/frog-jump/) | 30/08/2023 19:25:13 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/frog-jump/solution.h) | ❌ | ❌ |
 | [perfect-rectangle](https://leetcode.com/problems/perfect-rectangle/) | 30/08/2023 19:10:03 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/perfect-rectangle/solution.h) | ❌ | ❌ |
 | [insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 30/08/2023 18:20:15 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/insert-delete-getrandom-o1-duplicates-allowed/solution.h) | ❌ | ❌ |
 | [max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 30/08/2023 17:53:58 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-sum-of-rectangle-no-larger-than-k/solution.h) | ❌ | ❌ |
