@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "data-stream-as-disjoint-intervals": {
+            "name": "data-stream-as-disjoint-intervals",
+            "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+            "date": "30/08/2023 17:24:57",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/data-stream-as-disjoint-intervals/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "palindrome-pairs": {
             "name": "palindrome-pairs",
             "url": "https://leetcode.com/problems/palindrome-pairs/",
