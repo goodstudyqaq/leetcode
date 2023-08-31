@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "trapping-rain-water-ii": {
+            "name": "trapping-rain-water-ii",
+            "url": "https://leetcode.com/problems/trapping-rain-water-ii/",
+            "date": "31/08/2023 14:58:47",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/trapping-rain-water-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "frog-jump": {
             "name": "frog-jump",
             "url": "https://leetcode.com/problems/frog-jump/",
