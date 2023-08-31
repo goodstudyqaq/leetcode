@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | 31/08/2023 22:09:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/arithmetic-slices-ii-subsequence/solution.h) | ❌ | ❌ |
 | [all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure/) | 31/08/2023 21:36:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/all-oone-data-structure/solution.h) | ❌ | ❌ |
 | [strong-password-checker](https://leetcode.com/problems/strong-password-checker/) | 31/08/2023 16:07:47 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strong-password-checker/solution.h) | ❌ | ❌ |
 | [split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) | 31/08/2023 15:24:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-largest-sum/solution.h) | ❌ | ❌ |
