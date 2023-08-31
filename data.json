@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "split-array-largest-sum": {
+            "name": "split-array-largest-sum",
+            "url": "https://leetcode.com/problems/split-array-largest-sum/",
+            "date": "31/08/2023 15:24:21",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-largest-sum/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "trapping-rain-water-ii": {
             "name": "trapping-rain-water-ii",
             "url": "https://leetcode.com/problems/trapping-rain-water-ii/",
