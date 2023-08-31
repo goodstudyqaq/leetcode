@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "strong-password-checker": {
+            "name": "strong-password-checker",
+            "url": "https://leetcode.com/problems/strong-password-checker/",
+            "date": "31/08/2023 16:07:47",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strong-password-checker/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "split-array-largest-sum": {
             "name": "split-array-largest-sum",
             "url": "https://leetcode.com/problems/split-array-largest-sum/",
