@@ -6,6 +6,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure/) | 31/08/2023 21:36:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/all-oone-data-structure/solution.h) | ❌ | ❌ |
 | [strong-password-checker](https://leetcode.com/problems/strong-password-checker/) | 31/08/2023 16:07:47 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strong-password-checker/solution.h) | ❌ | ❌ |
 | [split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) | 31/08/2023 15:24:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-largest-sum/solution.h) | ❌ | ❌ |
 | [trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/) | 31/08/2023 14:58:47 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/trapping-rain-water-ii/solution.h) | ❌ | ❌ |

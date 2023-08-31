@@ -8,6 +8,14 @@
         }
     },
     "problem": {
+        "all-oone-data-structure": {
+            "name": "all-oone-data-structure",
+            "url": "https://leetcode.com/problems/all-oone-data-structure/",
+            "date": "31/08/2023 21:36:45",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/all-oone-data-structure/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "strong-password-checker": {
             "name": "strong-password-checker",
             "url": "https://leetcode.com/problems/strong-password-checker/",
