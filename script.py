@@ -46,7 +46,7 @@ for problem in problems:
 
 
 # sort problem by date time 
-datas["problem"] = dict(sorted(datas["problem"].items(), key=lambda x: x[1]["date"], reverse=True))
+datas["problem"] = dict(sorted(datas["problem"].items(), key=lambda x: datetime.strptime(x[1]["date"], "%d/%m/%Y %H:%M:%S"), reverse=True))
 
 
 # write data.json

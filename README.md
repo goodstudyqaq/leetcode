@@ -6,6 +6,11 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [poor-pigs](https://leetcode.com/problems/poor-pigs/) | 02/09/2023 11:34:16 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h) | ❌ | ❌ |
+| [distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | 02/09/2023 11:34:16 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/distinct-subsequences/solution.h) | ❌ | ❌ |
+| [freedom-trail](https://leetcode.com/problems/freedom-trail/) | 02/09/2023 11:28:16 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/freedom-trail/solution.h) | ❌ | ❌ |
+| [ipo](https://leetcode.com/problems/ipo/) | 02/09/2023 10:54:56 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h) | ❌ | ❌ |
+| [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | 02/09/2023 10:47:27 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h) | ❌ | ❌ |
 | [arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | 31/08/2023 22:09:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/arithmetic-slices-ii-subsequence/solution.h) | ❌ | ❌ |
 | [all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure/) | 31/08/2023 21:36:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/all-oone-data-structure/solution.h) | ❌ | ❌ |
 | [strong-password-checker](https://leetcode.com/problems/strong-password-checker/) | 31/08/2023 16:07:47 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strong-password-checker/solution.h) | ❌ | ❌ |
@@ -73,11 +78,8 @@
 | [minimum-degree-of-a-connected-trio-in-a-graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-degree-of-a-connected-trio-in-a-graph/solution.h) | ❌ | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-degree-of-a-connected-trio-in-a-graph/README.md) |
 | [word-break](https://leetcode.com/problems/word-break/) | 22/08/2023 10:14:33 | ❌ | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/word-break/solution.py) | ❌ |
 | [find-the-longest-semi-repetitive-substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-the-longest-semi-repetitive-substring/solution.h) | ❌ | ❌ |
-| [remove-comments](https://leetcode.com/problems/remove-comments/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/remove-comments/solution.py) | ❌ |
+| [remove-comments](https://leetcode.com/problems/remove-comments/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/remove-comments/solution.py) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/README.md) |
 | [unique-paths-iii](https://leetcode.com/problems/unique-paths-iii/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/unique-paths-iii/solution.h) | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/unique-paths-iii/solution.py) | ❌ |
 | [maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximize-distance-to-closest-person/solution.h) | ❌ | ❌ |
 | [car-fleet](https://leetcode.com/problems/car-fleet/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/car-fleet/solution.h) | ❌ | ❌ |
 | [last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/last-moment-before-all-ants-fall-out-of-a-plank/solution.h) | ❌ | ❌ |
-| [freedom-trail](https://leetcode.com/problems/freedom-trail/) | 02/09/2023 11:28:16 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/freedom-trail/solution.h) | ❌ | ❌ |
-| [ipo](https://leetcode.com/problems/ipo/) | 02/09/2023 10:54:56 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h) | ❌ | ❌ |
-| [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | 02/09/2023 10:47:27 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h) | ❌ | ❌ |

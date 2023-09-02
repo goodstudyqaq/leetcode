@@ -8,6 +8,46 @@
         }
     },
     "problem": {
+        "poor-pigs": {
+            "name": "poor-pigs",
+            "url": "https://leetcode.com/problems/poor-pigs/",
+            "date": "02/09/2023 11:34:16",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "distinct-subsequences": {
+            "name": "distinct-subsequences",
+            "url": "https://leetcode.com/problems/distinct-subsequences/",
+            "date": "02/09/2023 11:34:16",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/distinct-subsequences/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "freedom-trail": {
+            "name": "freedom-trail",
+            "url": "https://leetcode.com/problems/freedom-trail/",
+            "date": "02/09/2023 11:28:16",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/freedom-trail/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "ipo": {
+            "name": "ipo",
+            "url": "https://leetcode.com/problems/ipo/",
+            "date": "02/09/2023 10:54:56",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "reverse-pairs": {
+            "name": "reverse-pairs",
+            "url": "https://leetcode.com/problems/reverse-pairs/",
+            "date": "02/09/2023 10:47:27",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "arithmetic-slices-ii-subsequence": {
             "name": "arithmetic-slices-ii-subsequence",
             "url": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence/",
@@ -550,7 +590,7 @@
             "date": "22/08/2023 10:14:33",
             "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/solution.h",
             "python": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-python/remove-comments/solution.py",
-            "tutorial": ""
+            "tutorial": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/remove-comments/README.md"
         },
         "unique-paths-iii": {
             "name": "unique-paths-iii",
@@ -581,30 +621,6 @@
             "url": "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/",
             "date": "22/08/2023 10:14:33",
             "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/last-moment-before-all-ants-fall-out-of-a-plank/solution.h",
-            "python": "",
-            "tutorial": ""
-        },
-        "freedom-trail": {
-            "name": "freedom-trail",
-            "url": "https://leetcode.com/problems/freedom-trail/",
-            "date": "02/09/2023 11:28:16",
-            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/freedom-trail/solution.h",
-            "python": "",
-            "tutorial": ""
-        },
-        "ipo": {
-            "name": "ipo",
-            "url": "https://leetcode.com/problems/ipo/",
-            "date": "02/09/2023 10:54:56",
-            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h",
-            "python": "",
-            "tutorial": ""
-        },
-        "reverse-pairs": {
-            "name": "reverse-pairs",
-            "url": "https://leetcode.com/problems/reverse-pairs/",
-            "date": "02/09/2023 10:47:27",
-            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h",
             "python": "",
             "tutorial": ""
         }
