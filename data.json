@@ -584,6 +584,14 @@
             "python": "",
             "tutorial": ""
         },
+        "ipo": {
+            "name": "ipo",
+            "url": "https://leetcode.com/problems/ipo/",
+            "date": "02/09/2023 10:54:56",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "reverse-pairs": {
             "name": "reverse-pairs",
             "url": "https://leetcode.com/problems/reverse-pairs/",

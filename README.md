@@ -78,4 +78,5 @@
 | [maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximize-distance-to-closest-person/solution.h) | ❌ | ❌ |
 | [car-fleet](https://leetcode.com/problems/car-fleet/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/car-fleet/solution.h) | ❌ | ❌ |
 | [last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | 22/08/2023 10:14:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/last-moment-before-all-ants-fall-out-of-a-plank/solution.h) | ❌ | ❌ |
+| [ipo](https://leetcode.com/problems/ipo/) | 02/09/2023 10:54:56 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/ipo/solution.h) | ❌ | ❌ |
 | [reverse-pairs](https://leetcode.com/problems/reverse-pairs/) | 02/09/2023 10:47:27 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h) | ❌ | ❌ |
