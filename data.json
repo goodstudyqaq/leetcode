@@ -584,6 +584,14 @@
             "python": "",
             "tutorial": ""
         },
+        "freedom-trail": {
+            "name": "freedom-trail",
+            "url": "https://leetcode.com/problems/freedom-trail/",
+            "date": "02/09/2023 11:28:16",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/freedom-trail/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "ipo": {
             "name": "ipo",
             "url": "https://leetcode.com/problems/ipo/",
