@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "smallest-good-base": {
+            "name": "smallest-good-base",
+            "url": "https://leetcode.com/problems/smallest-good-base/",
+            "date": "02/09/2023 21:27:26",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-good-base/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "sliding-window-median": {
             "name": "sliding-window-median",
             "url": "https://leetcode.com/problems/sliding-window-median/",
