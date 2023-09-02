@@ -1,29 +1,7 @@
 {
     "contest": {
-        "weekly-contest-360": {
-            "url": "https://github.com/goodstudyqaq/leetcode/blob/main/contests/weekly-contest-360",
-            "date": "27/08/2023 10:30:00",
-            "rank": 123,
-            "solved": "4/4"
-        }
     },
     "problem": {
-        "poor-pigs": {
-            "name": "poor-pigs",
-            "url": "https://leetcode.com/problems/poor-pigs/",
-            "date": "02/09/2023 11:34:16",
-            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h",
-            "python": "",
-            "tutorial": ""
-        },
-        "distinct-subsequences": {
-            "name": "distinct-subsequences",
-            "url": "https://leetcode.com/problems/distinct-subsequences/",
-            "date": "02/09/2023 11:34:16",
-            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/distinct-subsequences/solution.h",
-            "python": "",
-            "tutorial": ""
-        },
         "freedom-trail": {
             "name": "freedom-trail",
             "url": "https://leetcode.com/problems/freedom-trail/",
