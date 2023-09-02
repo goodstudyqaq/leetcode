@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "sliding-window-median": {
+            "name": "sliding-window-median",
+            "url": "https://leetcode.com/problems/sliding-window-median/",
+            "date": "02/09/2023 17:20:01",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-window-median/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "freedom-trail": {
             "name": "freedom-trail",
             "url": "https://leetcode.com/problems/freedom-trail/",
