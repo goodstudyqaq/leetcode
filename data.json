@@ -583,6 +583,14 @@
             "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/last-moment-before-all-ants-fall-out-of-a-plank/solution.h",
             "python": "",
             "tutorial": ""
+        },
+        "reverse-pairs": {
+            "name": "reverse-pairs",
+            "url": "https://leetcode.com/problems/reverse-pairs/",
+            "date": "02/09/2023 10:47:27",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reverse-pairs/solution.h",
+            "python": "",
+            "tutorial": ""
         }
     }
 }
