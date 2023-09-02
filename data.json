@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "concatenated-words": {
+            "name": "concatenated-words",
+            "url": "https://leetcode.com/problems/concatenated-words/",
+            "date": "02/09/2023 23:31:50",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/concatenated-words/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "smallest-good-base": {
             "name": "smallest-good-base",
             "url": "https://leetcode.com/problems/smallest-good-base/",
