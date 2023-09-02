@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [poor-pigs](https://leetcode.com/problems/poor-pigs/) | 02/09/2023 23:52:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h) | ❌ | ❌ |
 | [concatenated-words](https://leetcode.com/problems/concatenated-words/) | 02/09/2023 23:31:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/concatenated-words/solution.h) | ❌ | ❌ |
 | [smallest-good-base](https://leetcode.com/problems/smallest-good-base/) | 02/09/2023 21:27:26 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-good-base/solution.h) | ❌ | ❌ |
 | [sliding-window-median](https://leetcode.com/problems/sliding-window-median/) | 02/09/2023 17:20:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-window-median/solution.h) | ❌ | ❌ |

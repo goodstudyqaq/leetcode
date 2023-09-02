@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "poor-pigs": {
+            "name": "poor-pigs",
+            "url": "https://leetcode.com/problems/poor-pigs/",
+            "date": "02/09/2023 23:52:32",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "concatenated-words": {
             "name": "concatenated-words",
             "url": "https://leetcode.com/problems/concatenated-words/",
