@@ -1,4 +1,4 @@
-#include "./solution.h"
+#include "./solution2.h"
 
 int main() {
     Solution sol = Solution();
