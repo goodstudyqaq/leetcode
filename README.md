@@ -5,6 +5,8 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [student-attendance-record-ii](https://leetcode.com/problems/student-attendance-record-ii/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/student-attendance-record-ii/solution.h) | ❌ | ❌ |
+| [lfu-cache](https://leetcode.com/problems/lfu-cache/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/lfu-cache/solution.h) | ❌ | ❌ |
 | [poor-pigs](https://leetcode.com/problems/poor-pigs/) | 02/09/2023 23:52:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h) | ❌ | ❌ |
 | [concatenated-words](https://leetcode.com/problems/concatenated-words/) | 02/09/2023 23:31:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/concatenated-words/solution.h) | ❌ | ❌ |
 | [smallest-good-base](https://leetcode.com/problems/smallest-good-base/) | 02/09/2023 21:27:26 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-good-base/solution.h) | ❌ | ❌ |

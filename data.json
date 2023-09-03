@@ -1,6 +1,22 @@
 {
     "contest": {},
     "problem": {
+        "student-attendance-record-ii": {
+            "name": "student-attendance-record-ii",
+            "url": "https://leetcode.com/problems/student-attendance-record-ii/",
+            "date": "03/09/2023 15:22:09",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/student-attendance-record-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
+        "lfu-cache": {
+            "name": "lfu-cache",
+            "url": "https://leetcode.com/problems/lfu-cache/",
+            "date": "03/09/2023 15:22:09",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/lfu-cache/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "poor-pigs": {
             "name": "poor-pigs",
             "url": "https://leetcode.com/problems/poor-pigs/",
