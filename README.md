@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | 03/09/2023 17:18:44 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/non-negative-integers-without-consecutive-ones/solution.h) | ❌ | ❌ |
 | [erect-the-fence](https://leetcode.com/problems/erect-the-fence/) | 03/09/2023 16:28:55 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/erect-the-fence/solution.h) | ❌ | ❌ |
 | [student-attendance-record-ii](https://leetcode.com/problems/student-attendance-record-ii/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/student-attendance-record-ii/solution.h) | ❌ | ❌ |
 | [lfu-cache](https://leetcode.com/problems/lfu-cache/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/lfu-cache/solution.h) | ❌ | ❌ |

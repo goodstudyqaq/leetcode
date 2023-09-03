@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "non-negative-integers-without-consecutive-ones": {
+            "name": "non-negative-integers-without-consecutive-ones",
+            "url": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/",
+            "date": "03/09/2023 17:18:44",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/non-negative-integers-without-consecutive-ones/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "erect-the-fence": {
             "name": "erect-the-fence",
             "url": "https://leetcode.com/problems/erect-the-fence/",
