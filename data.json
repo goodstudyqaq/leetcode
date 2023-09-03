@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "smallest-range-covering-elements-from-k-lists": {
+            "name": "smallest-range-covering-elements-from-k-lists",
+            "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+            "date": "03/09/2023 17:45:43",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-range-covering-elements-from-k-lists/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "k-inverse-pairs-array": {
             "name": "k-inverse-pairs-array",
             "url": "https://leetcode.com/problems/k-inverse-pairs-array/",
