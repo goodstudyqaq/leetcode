@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [erect-the-fence](https://leetcode.com/problems/erect-the-fence/) | 03/09/2023 16:28:55 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/erect-the-fence/solution.h) | ❌ | ❌ |
 | [student-attendance-record-ii](https://leetcode.com/problems/student-attendance-record-ii/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/student-attendance-record-ii/solution.h) | ❌ | ❌ |
 | [lfu-cache](https://leetcode.com/problems/lfu-cache/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/lfu-cache/solution.h) | ❌ | ❌ |
 | [poor-pigs](https://leetcode.com/problems/poor-pigs/) | 02/09/2023 23:52:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/poor-pigs/solution.h) | ❌ | ❌ |

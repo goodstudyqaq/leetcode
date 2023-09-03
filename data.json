@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "erect-the-fence": {
+            "name": "erect-the-fence",
+            "url": "https://leetcode.com/problems/erect-the-fence/",
+            "date": "03/09/2023 16:28:55",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/erect-the-fence/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "student-attendance-record-ii": {
             "name": "student-attendance-record-ii",
             "url": "https://leetcode.com/problems/student-attendance-record-ii/",
