@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "super-washing-machines": {
+            "name": "super-washing-machines",
+            "url": "https://leetcode.com/problems/super-washing-machines/",
+            "date": "03/09/2023 23:00:09",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/super-washing-machines/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "count-the-repetitions": {
             "name": "count-the-repetitions",
             "url": "https://leetcode.com/problems/count-the-repetitions/",

@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [super-washing-machines](https://leetcode.com/problems/super-washing-machines/) | 03/09/2023 23:00:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/super-washing-machines/solution.h) | ❌ | ❌ |
 | [count-the-repetitions](https://leetcode.com/problems/count-the-repetitions/) | 03/09/2023 22:10:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-the-repetitions/solution.h) | ❌ | ❌ |
 | [find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | 03/09/2023 18:45:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-the-closest-palindrome/solution.h) | ❌ | ❌ |
 | [smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 03/09/2023 17:45:43 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-range-covering-elements-from-k-lists/solution.h) | ❌ | ❌ |
