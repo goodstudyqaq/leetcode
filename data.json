@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "count-the-repetitions": {
+            "name": "count-the-repetitions",
+            "url": "https://leetcode.com/problems/count-the-repetitions/",
+            "date": "03/09/2023 22:10:01",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-the-repetitions/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "find-the-closest-palindrome": {
             "name": "find-the-closest-palindrome",
             "url": "https://leetcode.com/problems/find-the-closest-palindrome/",

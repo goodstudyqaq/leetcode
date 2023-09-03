@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [count-the-repetitions](https://leetcode.com/problems/count-the-repetitions/) | 03/09/2023 22:10:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-the-repetitions/solution.h) | ❌ | ❌ |
 | [find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | 03/09/2023 18:45:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-the-closest-palindrome/solution.h) | ❌ | ❌ |
 | [smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 03/09/2023 17:45:43 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/smallest-range-covering-elements-from-k-lists/solution.h) | ❌ | ❌ |
 | [k-inverse-pairs-array](https://leetcode.com/problems/k-inverse-pairs-array/) | 03/09/2023 17:33:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/k-inverse-pairs-array/solution.h) | ❌ | ❌ |
