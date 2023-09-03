@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "find-the-closest-palindrome": {
+            "name": "find-the-closest-palindrome",
+            "url": "https://leetcode.com/problems/find-the-closest-palindrome/",
+            "date": "03/09/2023 18:45:45",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-the-closest-palindrome/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "smallest-range-covering-elements-from-k-lists": {
             "name": "smallest-range-covering-elements-from-k-lists",
             "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
