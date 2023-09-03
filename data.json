@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "k-inverse-pairs-array": {
+            "name": "k-inverse-pairs-array",
+            "url": "https://leetcode.com/problems/k-inverse-pairs-array/",
+            "date": "03/09/2023 17:33:45",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/k-inverse-pairs-array/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "non-negative-integers-without-consecutive-ones": {
             "name": "non-negative-integers-without-consecutive-ones",
             "url": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/",

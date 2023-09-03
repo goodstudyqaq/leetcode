@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [k-inverse-pairs-array](https://leetcode.com/problems/k-inverse-pairs-array/) | 03/09/2023 17:33:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/k-inverse-pairs-array/solution.h) | ❌ | ❌ |
 | [non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | 03/09/2023 17:18:44 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/non-negative-integers-without-consecutive-ones/solution.h) | ❌ | ❌ |
 | [erect-the-fence](https://leetcode.com/problems/erect-the-fence/) | 03/09/2023 16:28:55 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/erect-the-fence/solution.h) | ❌ | ❌ |
 | [student-attendance-record-ii](https://leetcode.com/problems/student-attendance-record-ii/) | 03/09/2023 15:22:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/student-attendance-record-ii/solution.h) | ❌ | ❌ |
