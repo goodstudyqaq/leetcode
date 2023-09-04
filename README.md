@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | 04/09/2023 09:16:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-k-th-smallest-pair-distance/solution.h) | ❌ | ❌ |
 | [decode-ways-ii](https://leetcode.com/problems/decode-ways-ii/) | 04/09/2023 09:02:33 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/decode-ways-ii/solution.h) | ❌ | ❌ |
 | [super-washing-machines](https://leetcode.com/problems/super-washing-machines/) | 03/09/2023 23:00:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/super-washing-machines/solution.h) | ❌ | ❌ |
 | [count-the-repetitions](https://leetcode.com/problems/count-the-repetitions/) | 03/09/2023 22:10:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-the-repetitions/solution.h) | ❌ | ❌ |

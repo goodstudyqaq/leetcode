@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "find-k-th-smallest-pair-distance": {
+            "name": "find-k-th-smallest-pair-distance",
+            "url": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+            "date": "04/09/2023 09:16:32",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-k-th-smallest-pair-distance/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "decode-ways-ii": {
             "name": "decode-ways-ii",
             "url": "https://leetcode.com/problems/decode-ways-ii/",
