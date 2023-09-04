@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "decode-ways-ii": {
+            "name": "decode-ways-ii",
+            "url": "https://leetcode.com/problems/decode-ways-ii/",
+            "date": "04/09/2023 09:02:33",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/decode-ways-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "super-washing-machines": {
             "name": "super-washing-machines",
             "url": "https://leetcode.com/problems/super-washing-machines/",
