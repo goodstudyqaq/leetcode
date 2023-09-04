@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | 04/09/2023 11:26:56 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-sum-of-3-non-overlapping-subarrays/solution.h) | ❌ | ❌ |
 | [stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word/) | 04/09/2023 10:43:54 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/stickers-to-spell-word/solution.h) | ❌ | ❌ |
 | [random-pick-with-blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | 04/09/2023 10:21:08 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/random-pick-with-blacklist/solution.h) | ❌ | ❌ |
 | [find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | 04/09/2023 09:16:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/find-k-th-smallest-pair-distance/solution.h) | ❌ | ❌ |

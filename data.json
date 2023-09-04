@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "maximum-sum-of-3-non-overlapping-subarrays": {
+            "name": "maximum-sum-of-3-non-overlapping-subarrays",
+            "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/",
+            "date": "04/09/2023 11:26:56",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-sum-of-3-non-overlapping-subarrays/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "stickers-to-spell-word": {
             "name": "stickers-to-spell-word",
             "url": "https://leetcode.com/problems/stickers-to-spell-word/",
