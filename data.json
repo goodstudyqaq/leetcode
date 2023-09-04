@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "random-pick-with-blacklist": {
+            "name": "random-pick-with-blacklist",
+            "url": "https://leetcode.com/problems/random-pick-with-blacklist/",
+            "date": "04/09/2023 10:21:08",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/random-pick-with-blacklist/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "find-k-th-smallest-pair-distance": {
             "name": "find-k-th-smallest-pair-distance",
             "url": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
