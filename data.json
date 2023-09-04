@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "strange-printer": {
+            "name": "strange-printer",
+            "url": "https://leetcode.com/problems/strange-printer/",
+            "date": "04/09/2023 15:59:49",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strange-printer/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "cut-off-trees-for-golf-event": {
             "name": "cut-off-trees-for-golf-event",
             "url": "https://leetcode.com/problems/cut-off-trees-for-golf-event/",

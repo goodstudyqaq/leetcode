@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [strange-printer](https://leetcode.com/problems/strange-printer/) | 04/09/2023 15:59:49 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strange-printer/solution.h) | ❌ | ❌ |
 | [cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | 04/09/2023 15:27:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cut-off-trees-for-golf-event/solution.h) | ❌ | ❌ |
 | [redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii/) | 04/09/2023 15:06:07 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/redundant-connection-ii/solution.h) | ❌ | ❌ |
 | [kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | 04/09/2023 11:36:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/kth-smallest-number-in-multiplication-table/solution.h) | ❌ | ❌ |
