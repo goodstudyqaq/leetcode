@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "stickers-to-spell-word": {
+            "name": "stickers-to-spell-word",
+            "url": "https://leetcode.com/problems/stickers-to-spell-word/",
+            "date": "04/09/2023 10:43:54",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/stickers-to-spell-word/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "random-pick-with-blacklist": {
             "name": "random-pick-with-blacklist",
             "url": "https://leetcode.com/problems/random-pick-with-blacklist/",
