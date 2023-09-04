@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [tag-validator](https://leetcode.com/problems/tag-validator/) | 04/09/2023 16:56:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/tag-validator/solution.h) | ❌ | ❌ |
 | [strange-printer](https://leetcode.com/problems/strange-printer/) | 04/09/2023 15:59:49 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/strange-printer/solution.h) | ❌ | ❌ |
 | [cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | 04/09/2023 15:27:32 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cut-off-trees-for-golf-event/solution.h) | ❌ | ❌ |
 | [redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii/) | 04/09/2023 15:06:07 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/redundant-connection-ii/solution.h) | ❌ | ❌ |
