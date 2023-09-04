@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "kth-smallest-number-in-multiplication-table": {
+            "name": "kth-smallest-number-in-multiplication-table",
+            "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+            "date": "04/09/2023 11:36:09",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/kth-smallest-number-in-multiplication-table/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "maximum-sum-of-3-non-overlapping-subarrays": {
             "name": "maximum-sum-of-3-non-overlapping-subarrays",
             "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/",
