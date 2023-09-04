@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "cut-off-trees-for-golf-event": {
+            "name": "cut-off-trees-for-golf-event",
+            "url": "https://leetcode.com/problems/cut-off-trees-for-golf-event/",
+            "date": "04/09/2023 15:27:32",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cut-off-trees-for-golf-event/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "redundant-connection-ii": {
             "name": "redundant-connection-ii",
             "url": "https://leetcode.com/problems/redundant-connection-ii/",
