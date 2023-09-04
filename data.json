@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "redundant-connection-ii": {
+            "name": "redundant-connection-ii",
+            "url": "https://leetcode.com/problems/redundant-connection-ii/",
+            "date": "04/09/2023 15:06:07",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/redundant-connection-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "kth-smallest-number-in-multiplication-table": {
             "name": "kth-smallest-number-in-multiplication-table",
             "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",

@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii/) | 04/09/2023 15:06:07 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/redundant-connection-ii/solution.h) | ❌ | ❌ |
 | [kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | 04/09/2023 11:36:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/kth-smallest-number-in-multiplication-table/solution.h) | ❌ | ❌ |
 | [maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | 04/09/2023 11:26:56 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-sum-of-3-non-overlapping-subarrays/solution.h) | ❌ | ❌ |
 | [stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word/) | 04/09/2023 10:43:54 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/stickers-to-spell-word/solution.h) | ❌ | ❌ |
