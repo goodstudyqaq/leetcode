@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "cracking-the-safe": {
+            "name": "cracking-the-safe",
+            "url": "https://leetcode.com/problems/cracking-the-safe/",
+            "date": "05/09/2023 18:39:38",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cracking-the-safe/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "contain-virus": {
             "name": "contain-virus",
             "url": "https://leetcode.com/problems/contain-virus/",

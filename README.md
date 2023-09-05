@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [cracking-the-safe](https://leetcode.com/problems/cracking-the-safe/) | 05/09/2023 18:39:38 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cracking-the-safe/solution.h) | ❌ | ❌ |
 | [contain-virus](https://leetcode.com/problems/contain-virus/) | 05/09/2023 17:49:39 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/contain-virus/solution.h) | ❌ | ❌ |
 | [prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search/) | 05/09/2023 16:15:57 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/prefix-and-suffix-search/solution.h) | ❌ | ❌ |
 | [cherry-pickup](https://leetcode.com/problems/cherry-pickup/) | 05/09/2023 16:06:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cherry-pickup/solution.h) | ❌ | ❌ |
