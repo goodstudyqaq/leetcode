@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "parse-lisp-expression": {
+            "name": "parse-lisp-expression",
+            "url": "https://leetcode.com/problems/parse-lisp-expression/",
+            "date": "05/09/2023 15:27:18",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/parse-lisp-expression/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "my-calendar-iii": {
             "name": "my-calendar-iii",
             "url": "https://leetcode.com/problems/my-calendar-iii/",
