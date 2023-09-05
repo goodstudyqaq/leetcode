@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "my-calendar-iii": {
+            "name": "my-calendar-iii",
+            "url": "https://leetcode.com/problems/my-calendar-iii/",
+            "date": "05/09/2023 11:00:36",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/my-calendar-iii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "count-different-palindromic-subsequences": {
             "name": "count-different-palindromic-subsequences",
             "url": "https://leetcode.com/problems/count-different-palindromic-subsequences/",
