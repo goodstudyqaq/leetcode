@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search/) | 05/09/2023 16:15:57 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/prefix-and-suffix-search/solution.h) | ❌ | ❌ |
 | [cherry-pickup](https://leetcode.com/problems/cherry-pickup/) | 05/09/2023 16:06:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cherry-pickup/solution.h) | ❌ | ❌ |
 | [parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression/) | 05/09/2023 15:27:18 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/parse-lisp-expression/solution.h) | ❌ | ❌ |
 | [my-calendar-iii](https://leetcode.com/problems/my-calendar-iii/) | 05/09/2023 11:00:36 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/my-calendar-iii/solution.h) | ❌ | ❌ |

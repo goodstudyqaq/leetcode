@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "prefix-and-suffix-search": {
+            "name": "prefix-and-suffix-search",
+            "url": "https://leetcode.com/problems/prefix-and-suffix-search/",
+            "date": "05/09/2023 16:15:57",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/prefix-and-suffix-search/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "cherry-pickup": {
             "name": "cherry-pickup",
             "url": "https://leetcode.com/problems/cherry-pickup/",
