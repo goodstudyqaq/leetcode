@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "number-of-atoms": {
+            "name": "number-of-atoms",
+            "url": "https://leetcode.com/problems/number-of-atoms/",
+            "date": "05/09/2023 09:21:57",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/number-of-atoms/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "tag-validator": {
             "name": "tag-validator",
             "url": "https://leetcode.com/problems/tag-validator/",
