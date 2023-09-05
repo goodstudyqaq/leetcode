@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "special-binary-string": {
+            "name": "special-binary-string",
+            "url": "https://leetcode.com/problems/special-binary-string/",
+            "date": "05/09/2023 21:36:42",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/special-binary-string/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "set-intersection-size-at-least-two": {
             "name": "set-intersection-size-at-least-two",
             "url": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
