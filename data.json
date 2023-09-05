@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "cherry-pickup": {
+            "name": "cherry-pickup",
+            "url": "https://leetcode.com/problems/cherry-pickup/",
+            "date": "05/09/2023 16:06:01",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cherry-pickup/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "parse-lisp-expression": {
             "name": "parse-lisp-expression",
             "url": "https://leetcode.com/problems/parse-lisp-expression/",

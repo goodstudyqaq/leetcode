@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [cherry-pickup](https://leetcode.com/problems/cherry-pickup/) | 05/09/2023 16:06:01 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/cherry-pickup/solution.h) | ❌ | ❌ |
 | [parse-lisp-expression](https://leetcode.com/problems/parse-lisp-expression/) | 05/09/2023 15:27:18 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/parse-lisp-expression/solution.h) | ❌ | ❌ |
 | [my-calendar-iii](https://leetcode.com/problems/my-calendar-iii/) | 05/09/2023 11:00:36 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/my-calendar-iii/solution.h) | ❌ | ❌ |
 | [count-different-palindromic-subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | 05/09/2023 10:03:14 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-different-palindromic-subsequences/solution.h) | ❌ | ❌ |
