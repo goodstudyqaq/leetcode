@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "contain-virus": {
+            "name": "contain-virus",
+            "url": "https://leetcode.com/problems/contain-virus/",
+            "date": "05/09/2023 17:49:39",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/contain-virus/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "prefix-and-suffix-search": {
             "name": "prefix-and-suffix-search",
             "url": "https://leetcode.com/problems/prefix-and-suffix-search/",
