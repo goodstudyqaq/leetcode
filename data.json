@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "set-intersection-size-at-least-two": {
+            "name": "set-intersection-size-at-least-two",
+            "url": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+            "date": "05/09/2023 19:16:38",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/set-intersection-size-at-least-two/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "cracking-the-safe": {
             "name": "cracking-the-safe",
             "url": "https://leetcode.com/problems/cracking-the-safe/",
