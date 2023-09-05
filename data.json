@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "count-different-palindromic-subsequences": {
+            "name": "count-different-palindromic-subsequences",
+            "url": "https://leetcode.com/problems/count-different-palindromic-subsequences/",
+            "date": "05/09/2023 10:03:14",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-different-palindromic-subsequences/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "number-of-atoms": {
             "name": "number-of-atoms",
             "url": "https://leetcode.com/problems/number-of-atoms/",
