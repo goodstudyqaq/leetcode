@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average/) | 06/09/2023 17:27:19 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-with-same-average/solution.h) | ❌ | ❌ |
 | [minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | 06/09/2023 16:50:31 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-swaps-to-make-sequences-increasing/solution.h) | ❌ | ❌ |
 | [preimage-size-of-factorial-zeroes-function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | 06/09/2023 16:41:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/preimage-size-of-factorial-zeroes-function/solution.h) | ❌ | ❌ |
 | [transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard/) | 06/09/2023 16:23:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/transform-to-chessboard/solution.h) | ❌ | ❌ |

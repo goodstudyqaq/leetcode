@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "split-array-with-same-average": {
+            "name": "split-array-with-same-average",
+            "url": "https://leetcode.com/problems/split-array-with-same-average/",
+            "date": "06/09/2023 17:27:19",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-with-same-average/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "minimum-swaps-to-make-sequences-increasing": {
             "name": "minimum-swaps-to-make-sequences-increasing",
             "url": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/",
