@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "minimum-swaps-to-make-sequences-increasing": {
+            "name": "minimum-swaps-to-make-sequences-increasing",
+            "url": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/",
+            "date": "06/09/2023 16:50:31",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-swaps-to-make-sequences-increasing/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "preimage-size-of-factorial-zeroes-function": {
             "name": "preimage-size-of-factorial-zeroes-function",
             "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/",
