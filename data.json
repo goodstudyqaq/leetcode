@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "sliding-puzzle": {
+            "name": "sliding-puzzle",
+            "url": "https://leetcode.com/problems/sliding-puzzle/",
+            "date": "06/09/2023 12:17:13",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-puzzle/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "basic-calculator-iv": {
             "name": "basic-calculator-iv",
             "url": "https://leetcode.com/problems/basic-calculator-iv/",
