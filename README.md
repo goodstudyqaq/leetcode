@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv/) | 06/09/2023 12:07:10 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/basic-calculator-iv/solution.h) | ❌ | ❌ |
 | [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | 06/09/2023 09:41:31 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-chunks-to-make-sorted-ii/solution.h) | ❌ | ❌ |
 | [couples-holding-hands](https://leetcode.com/problems/couples-holding-hands/) | 06/09/2023 09:19:59 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/couples-holding-hands/solution.h) | ❌ | ❌ |
 | [special-binary-string](https://leetcode.com/problems/special-binary-string/) | 05/09/2023 21:36:42 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/special-binary-string/solution.h) | ❌ | ❌ |

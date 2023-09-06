@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "basic-calculator-iv": {
+            "name": "basic-calculator-iv",
+            "url": "https://leetcode.com/problems/basic-calculator-iv/",
+            "date": "06/09/2023 12:07:10",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/basic-calculator-iv/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "max-chunks-to-make-sorted-ii": {
             "name": "max-chunks-to-make-sorted-ii",
             "url": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/",
