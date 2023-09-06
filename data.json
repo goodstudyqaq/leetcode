@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "preimage-size-of-factorial-zeroes-function": {
+            "name": "preimage-size-of-factorial-zeroes-function",
+            "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/",
+            "date": "06/09/2023 16:41:21",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/preimage-size-of-factorial-zeroes-function/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "transform-to-chessboard": {
             "name": "transform-to-chessboard",
             "url": "https://leetcode.com/problems/transform-to-chessboard/",

@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [preimage-size-of-factorial-zeroes-function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | 06/09/2023 16:41:21 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/preimage-size-of-factorial-zeroes-function/solution.h) | ❌ | ❌ |
 | [transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard/) | 06/09/2023 16:23:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/transform-to-chessboard/solution.h) | ❌ | ❌ |
 | [reaching-points](https://leetcode.com/problems/reaching-points/) | 06/09/2023 15:09:07 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reaching-points/solution.h) | ❌ | ❌ |
 | [swim-in-rising-water](https://leetcode.com/problems/swim-in-rising-water/) | 06/09/2023 12:35:04 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/swim-in-rising-water/solution.h) | ❌ | ❌ |
