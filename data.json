@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "swim-in-rising-water": {
+            "name": "swim-in-rising-water",
+            "url": "https://leetcode.com/problems/swim-in-rising-water/",
+            "date": "06/09/2023 12:35:04",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/swim-in-rising-water/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "sliding-puzzle": {
             "name": "sliding-puzzle",
             "url": "https://leetcode.com/problems/sliding-puzzle/",

@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [swim-in-rising-water](https://leetcode.com/problems/swim-in-rising-water/) | 06/09/2023 12:35:04 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/swim-in-rising-water/solution.h) | ❌ | ❌ |
 | [sliding-puzzle](https://leetcode.com/problems/sliding-puzzle/) | 06/09/2023 12:17:13 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sliding-puzzle/solution.h) | ❌ | ❌ |
 | [basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv/) | 06/09/2023 12:07:10 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/basic-calculator-iv/solution.h) | ❌ | ❌ |
 | [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | 06/09/2023 09:41:31 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-chunks-to-make-sorted-ii/solution.h) | ❌ | ❌ |
