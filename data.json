@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "reaching-points": {
+            "name": "reaching-points",
+            "url": "https://leetcode.com/problems/reaching-points/",
+            "date": "06/09/2023 15:09:07",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reaching-points/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "swim-in-rising-water": {
             "name": "swim-in-rising-water",
             "url": "https://leetcode.com/problems/swim-in-rising-water/",
