@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "couples-holding-hands": {
+            "name": "couples-holding-hands",
+            "url": "https://leetcode.com/problems/couples-holding-hands/",
+            "date": "06/09/2023 09:19:59",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/couples-holding-hands/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "special-binary-string": {
             "name": "special-binary-string",
             "url": "https://leetcode.com/problems/special-binary-string/",
