@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "max-chunks-to-make-sorted-ii": {
+            "name": "max-chunks-to-make-sorted-ii",
+            "url": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/",
+            "date": "06/09/2023 09:41:31",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/max-chunks-to-make-sorted-ii/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "couples-holding-hands": {
             "name": "couples-holding-hands",
             "url": "https://leetcode.com/problems/couples-holding-hands/",
