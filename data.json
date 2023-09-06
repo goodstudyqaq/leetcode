@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "transform-to-chessboard": {
+            "name": "transform-to-chessboard",
+            "url": "https://leetcode.com/problems/transform-to-chessboard/",
+            "date": "06/09/2023 16:23:50",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/transform-to-chessboard/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "reaching-points": {
             "name": "reaching-points",
             "url": "https://leetcode.com/problems/reaching-points/",
