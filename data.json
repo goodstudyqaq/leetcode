@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "sum-of-distances-in-tree": {
+            "name": "sum-of-distances-in-tree",
+            "url": "https://leetcode.com/problems/sum-of-distances-in-tree/",
+            "date": "07/09/2023 11:36:37",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sum-of-distances-in-tree/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "consecutive-numbers-sum": {
             "name": "consecutive-numbers-sum",
             "url": "https://leetcode.com/problems/consecutive-numbers-sum/",
