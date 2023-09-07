@@ -5,6 +5,8 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | 07/09/2023 11:17:41 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-unique-characters-of-all-substrings-of-a-given-string/solution.h) | ❌ | ❌ |
+| [race-car](https://leetcode.com/problems/race-car/) | 07/09/2023 11:17:41 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/race-car/solution.h) | ❌ | ❌ |
 | [making-a-large-island](https://leetcode.com/problems/making-a-large-island/) | 07/09/2023 10:35:30 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/making-a-large-island/solution.h) | ❌ | ❌ |
 | [bus-routes](https://leetcode.com/problems/bus-routes/) | 07/09/2023 10:15:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/bus-routes/solution.h) | ❌ | ❌ |
 | [chalkboard-xor-game](https://leetcode.com/problems/chalkboard-xor-game/) | 07/09/2023 09:43:28 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/chalkboard-xor-game/solution.h) | ❌ | ❌ |
