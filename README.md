@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [guess-the-word](https://leetcode.com/problems/guess-the-word/) | 07/09/2023 14:54:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/guess-the-word/solution.h) | ❌ | ❌ |
 | [shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | 07/09/2023 12:01:17 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-path-visiting-all-nodes/solution.h) | ❌ | ❌ |
 | [similar-string-groups](https://leetcode.com/problems/similar-string-groups/) | 07/09/2023 11:55:08 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/similar-string-groups/solution.h) | ❌ | ❌ |
 | [sum-of-distances-in-tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | 07/09/2023 11:36:37 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sum-of-distances-in-tree/solution.h) | ❌ | ❌ |

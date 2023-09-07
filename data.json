@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "guess-the-word": {
+            "name": "guess-the-word",
+            "url": "https://leetcode.com/problems/guess-the-word/",
+            "date": "07/09/2023 14:54:50",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/guess-the-word/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "shortest-path-visiting-all-nodes": {
             "name": "shortest-path-visiting-all-nodes",
             "url": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
