@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "chalkboard-xor-game": {
+            "name": "chalkboard-xor-game",
+            "url": "https://leetcode.com/problems/chalkboard-xor-game/",
+            "date": "07/09/2023 09:43:28",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/chalkboard-xor-game/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "split-array-with-same-average": {
             "name": "split-array-with-same-average",
             "url": "https://leetcode.com/problems/split-array-with-same-average/",
