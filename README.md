@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [bus-routes](https://leetcode.com/problems/bus-routes/) | 07/09/2023 10:15:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/bus-routes/solution.h) | ❌ | ❌ |
 | [chalkboard-xor-game](https://leetcode.com/problems/chalkboard-xor-game/) | 07/09/2023 09:43:28 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/chalkboard-xor-game/solution.h) | ❌ | ❌ |
 | [split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average/) | 06/09/2023 17:27:19 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/split-array-with-same-average/solution.h) | ❌ | ❌ |
 | [minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | 06/09/2023 16:50:31 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-swaps-to-make-sequences-increasing/solution.h) | ❌ | ❌ |
