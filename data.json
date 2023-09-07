@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "shortest-path-visiting-all-nodes": {
+            "name": "shortest-path-visiting-all-nodes",
+            "url": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
+            "date": "07/09/2023 12:01:17",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-path-visiting-all-nodes/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "similar-string-groups": {
             "name": "similar-string-groups",
             "url": "https://leetcode.com/problems/similar-string-groups/",
