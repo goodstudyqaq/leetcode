@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [consecutive-numbers-sum](https://leetcode.com/problems/consecutive-numbers-sum/) | 07/09/2023 11:27:09 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/consecutive-numbers-sum/solution.h) | ❌ | ❌ |
 | [count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | 07/09/2023 11:17:41 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/count-unique-characters-of-all-substrings-of-a-given-string/solution.h) | ❌ | ❌ |
 | [race-car](https://leetcode.com/problems/race-car/) | 07/09/2023 11:17:41 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/race-car/solution.h) | ❌ | ❌ |
 | [making-a-large-island](https://leetcode.com/problems/making-a-large-island/) | 07/09/2023 10:35:30 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/making-a-large-island/solution.h) | ❌ | ❌ |
