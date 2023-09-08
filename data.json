@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "maximum-frequency-stack": {
+            "name": "maximum-frequency-stack",
+            "url": "https://leetcode.com/problems/maximum-frequency-stack/",
+            "date": "08/09/2023 16:55:26",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-frequency-stack/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "sum-of-subsequence-widths": {
             "name": "sum-of-subsequence-widths",
             "url": "https://leetcode.com/problems/sum-of-subsequence-widths/",
