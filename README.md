@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [sum-of-subsequence-widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | 08/09/2023 16:19:06 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sum-of-subsequence-widths/solution.h) | ❌ | ❌ |
 | [super-egg-drop](https://leetcode.com/problems/super-egg-drop/) | 08/09/2023 16:11:37 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/super-egg-drop/solution.h) | ❌ | ❌ |
 | [reachable-nodes-in-subdivided-graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | 08/09/2023 15:22:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reachable-nodes-in-subdivided-graph/solution.h) | ❌ | ❌ |
 | [profitable-schemes](https://leetcode.com/problems/profitable-schemes/) | 08/09/2023 11:30:25 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/profitable-schemes/solution.h) | ❌ | ❌ |

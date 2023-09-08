@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "sum-of-subsequence-widths": {
+            "name": "sum-of-subsequence-widths",
+            "url": "https://leetcode.com/problems/sum-of-subsequence-widths/",
+            "date": "08/09/2023 16:19:06",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/sum-of-subsequence-widths/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "super-egg-drop": {
             "name": "super-egg-drop",
             "url": "https://leetcode.com/problems/super-egg-drop/",
