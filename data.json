@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "profitable-schemes": {
+            "name": "profitable-schemes",
+            "url": "https://leetcode.com/problems/profitable-schemes/",
+            "date": "08/09/2023 11:30:25",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/profitable-schemes/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "minimum-number-of-refueling-stops": {
             "name": "minimum-number-of-refueling-stops",
             "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
