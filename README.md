@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [reachable-nodes-in-subdivided-graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | 08/09/2023 15:22:45 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reachable-nodes-in-subdivided-graph/solution.h) | ❌ | ❌ |
 | [profitable-schemes](https://leetcode.com/problems/profitable-schemes/) | 08/09/2023 11:30:25 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/profitable-schemes/solution.h) | ❌ | ❌ |
 | [minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | 08/09/2023 11:09:40 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-number-of-refueling-stops/solution.h) | ❌ | ❌ |
 | [nth-magical-number](https://leetcode.com/problems/nth-magical-number/) | 08/09/2023 10:42:57 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/nth-magical-number/solution.h) | ❌ | ❌ |

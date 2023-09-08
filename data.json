@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "reachable-nodes-in-subdivided-graph": {
+            "name": "reachable-nodes-in-subdivided-graph",
+            "url": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/",
+            "date": "08/09/2023 15:22:45",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/reachable-nodes-in-subdivided-graph/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "profitable-schemes": {
             "name": "profitable-schemes",
             "url": "https://leetcode.com/problems/profitable-schemes/",
