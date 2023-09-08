@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 08/09/2023 10:20:14 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-subarray-with-sum-at-least-k/solution.h) | ❌ | ❌ |
 | [k-similar-strings](https://leetcode.com/problems/k-similar-strings/) | 08/09/2023 09:29:13 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/k-similar-strings/solution.h) | ❌ | ❌ |
 | [guess-the-word](https://leetcode.com/problems/guess-the-word/) | 07/09/2023 14:54:50 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/guess-the-word/solution.h) | ❌ | ❌ |
 | [shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | 07/09/2023 12:01:17 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-path-visiting-all-nodes/solution.h) | ❌ | ❌ |
