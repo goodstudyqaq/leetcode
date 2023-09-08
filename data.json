@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "shortest-path-to-get-all-keys": {
+            "name": "shortest-path-to-get-all-keys",
+            "url": "https://leetcode.com/problems/shortest-path-to-get-all-keys/",
+            "date": "08/09/2023 10:37:17",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-path-to-get-all-keys/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "shortest-subarray-with-sum-at-least-k": {
             "name": "shortest-subarray-with-sum-at-least-k",
             "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
