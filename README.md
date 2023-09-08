@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | 08/09/2023 11:09:40 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-number-of-refueling-stops/solution.h) | ❌ | ❌ |
 | [nth-magical-number](https://leetcode.com/problems/nth-magical-number/) | 08/09/2023 10:42:57 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/nth-magical-number/solution.h) | ❌ | ❌ |
 | [shortest-path-to-get-all-keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | 08/09/2023 10:37:17 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-path-to-get-all-keys/solution.h) | ❌ | ❌ |
 | [shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | 08/09/2023 10:20:14 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/shortest-subarray-with-sum-at-least-k/solution.h) | ❌ | ❌ |

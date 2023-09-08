@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "minimum-number-of-refueling-stops": {
+            "name": "minimum-number-of-refueling-stops",
+            "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+            "date": "08/09/2023 11:09:40",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimum-number-of-refueling-stops/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "nth-magical-number": {
             "name": "nth-magical-number",
             "url": "https://leetcode.com/problems/nth-magical-number/",
