@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "partition-equal-subset-sum": {
+            "name": "partition-equal-subset-sum",
+            "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+            "date": "22/10/2023 22:53:15",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/partition-equal-subset-sum/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "maximum-frequency-stack": {
             "name": "maximum-frequency-stack",
             "url": "https://leetcode.com/problems/maximum-frequency-stack/",
