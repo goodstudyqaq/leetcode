@@ -1,3 +1,4 @@
 main
 solution
 __pycache__/
+*.exe
