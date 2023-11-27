@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "minimize-deviation-in-array": {
+            "name": "minimize-deviation-in-array",
+            "url": "https://leetcode.com/problems/minimize-deviation-in-array/",
+            "date": "27/11/2023 23:14:00",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimize-deviation-in-array/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "partition-equal-subset-sum": {
             "name": "partition-equal-subset-sum",
             "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
