@@ -1,6 +1,14 @@
 {
     "contest": {},
     "problem": {
+        "finding-mk-average": {
+            "name": "finding-mk-average",
+            "url": "https://leetcode.com/problems/finding-mk-average/",
+            "date": "29/11/2023 00:05:05",
+            "cpp": "https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/finding-mk-average/solution.h",
+            "python": "",
+            "tutorial": ""
+        },
         "minimize-deviation-in-array": {
             "name": "minimize-deviation-in-array",
             "url": "https://leetcode.com/problems/minimize-deviation-in-array/",

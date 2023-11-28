@@ -5,6 +5,7 @@
 ## Problem
 | # | Date | C++ | Python | Tutorial | 
 |---|---|---|---|---|
+| [finding-mk-average](https://leetcode.com/problems/finding-mk-average/) | 29/11/2023 00:05:05 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/finding-mk-average/solution.h) | ❌ | ❌ |
 | [minimize-deviation-in-array](https://leetcode.com/problems/minimize-deviation-in-array/) | 27/11/2023 23:14:00 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/minimize-deviation-in-array/solution.h) | ❌ | ❌ |
 | [partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 22/10/2023 22:53:15 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/partition-equal-subset-sum/solution.h) | ❌ | ❌ |
 | [maximum-frequency-stack](https://leetcode.com/problems/maximum-frequency-stack/) | 08/09/2023 16:55:26 | [✅](https://github.com/goodstudyqaq/leetcode/blob/main/problems-cpp/maximum-frequency-stack/solution.h) | ❌ | ❌ |
